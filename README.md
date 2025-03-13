@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/rbrecci">
-alt="RBrecci" /></a>
+    RBrecci 👾
+  </a>
 </p>
 
 <p align="center">
